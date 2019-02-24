@@ -1,0 +1,19 @@
+{
+  "name": "tmp-here",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestiberius/iamhere-snapshot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamestiberius/iamhere-snapshot/issues"
+  },
+  "homepage": "https://github.com/jamestiberius/iamhere-snapshot#readme",
+  "heroku-run-build-script": false
+}
